@@ -17,8 +17,8 @@ TradeCraft is a Solana-based decentralized trading journal that helps traders lo
 ### Built With:
 - Solana
 - AI (LLM-powered feedback)
-- Bubble.io (No-code frontend)
-- GitHub (project submission)
+- Bubble.io 
+- GitHub 
 
 ---
 
